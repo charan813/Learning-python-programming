@@ -1,0 +1,5 @@
+cash = 19867324678987.99  # DON'T CHANGE THE CASH VARIABLE
+
+# ADD YOUR CODE BELOW:
+cash1 = cash/5
+print(cash1)
